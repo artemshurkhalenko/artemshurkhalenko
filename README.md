@@ -1,7 +1,28 @@
-### Привет мир 🙌
+<div id="header" align="center">
+    <h1>Hi there, I'm  Artem </h1>
+    <h3>Data analyst from Saint-Petersburg</h3>
+</div>
 
+<div id="socials" align="center">
+    <a href="linkedin-url">
+    <img src="https://i.pinimg.com/originals/d6/73/07/d67307457b862e2ef69bf01b6eac12f8.png"
+    title="Email" width="95" height="50"/>&nbsp;
+  </a>
+  <a href="twitter-url">
+    <img src="https://mmbuk-rodnik.ru/images/info/PinClipartcom_campin.png"
+    title="VK.com" width="55" height="52"/>&nbsp;
+  </a>
+  <a href="telegram-url">
+    <img src="https://1000logos.net/wp-content/uploads/2020/09/Telegram-Logo-2013.png"
+    title="Telegram" width="75" height="48"/>&nbsp;
+  </a>
+</div>
 
-Меня зовут Артем и я работаю в области анализа данных
+### О себе
+- 👨‍🔬 Работаю аналитиком данных в  **Ecommerce**
+- 🎓 Студент CS в [SILL](https://siil.ch/ "Swiss International Institute Lausanne")
+- 🌍 I speak English b2
+
 
 **Технологии:**
 
