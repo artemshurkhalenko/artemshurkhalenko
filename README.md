@@ -1,27 +1,33 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm  Artem </h1>
-    <h3>Data analyst from Saint-Petersburg</h3>
+    <h1>Привет, меня зовут Артем </h1>
+    <h3>Аналитик данных из Санкт-Петербурга</h3>
 </div>
 
-<div id="socials" align="center">
-    <a href="linkedin-url">
-    <img src="https://i.pinimg.com/originals/d6/73/07/d67307457b862e2ef69bf01b6eac12f8.png"
-    title="Email" width="95" height="50"/>&nbsp;
-  </a>
-  <a href="twitter-url">
-    <img src="https://mmbuk-rodnik.ru/images/info/PinClipartcom_campin.png"
-    title="VK.com" width="55" height="52"/>&nbsp;
-  </a>
-  <a href="telegram-url">
-    <img src="https://1000logos.net/wp-content/uploads/2020/09/Telegram-Logo-2013.png"
-    title="Telegram" width="75" height="48"/>&nbsp;
-  </a>
-</div>
 
 ### О себе
-- 👨‍🔬 Работаю аналитиком данных в  **Ecommerce**
-- 🎓 Студент CS в [SILL](https://siil.ch/ "Swiss International Institute Lausanne")
-- 🌍 I speak English b2
+- 👨‍🔬 Работаю аналитиком данных в крупном **Ecommerce** 
+- 🎓 Студент IT-направления в Швейцарском институте открытого образования [SILL](https://siil.ch/ "Swiss International Institute Lausanne")
+- 🎻 Помогаю с данными стартапу для классических музыкантов [TUTTI](https://tuttimusic.tilda.ws/ "Tutti")
+- 👓 Люблю читать литературу по `DS`, `CS`
+- 🌍 Уровень английского языка b2
+- 🥁 Бью в барабаны > 13 лет
+
+
+
+
+<div id="socials" align="center">
+    <a href="https://vk.com/gravedigger88">
+    <img src="https://img.shields.io/badge/Vk.com-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vkontakte"/>
+  </a>
+  <a href="@grvdgr">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+
+  </a>
+  <a href="zvuk_ykt@mail.ru">
+      <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
 
 
 **Технологии:**
