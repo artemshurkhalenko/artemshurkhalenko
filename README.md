@@ -31,8 +31,30 @@
 
 
 
+**Языки:**
+
+<img src="https://rystol.cz/images/Rystol/sql.png"
+title="SQL" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+title="Python" width="60" height="55"/>&nbsp;
 
 
+**Библиотеки:**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
+title="Pandas" width="50" height="80"/>&nbsp;
+<img src="https://asset.brandfetch.io/idbyoKq4tZ/id0B3_53hD.png"
+title="Matplotlib" width="120" height="65"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
+title="NumPy" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+title="Scikitlearn" width="60" height="80"/>&nbsp;
+<img src="https://discourse.matplotlib.org/uploads/default/original/2X/b/bcd5309f3f22c0c53f1cf5b94b5f062dd3a9b8da.png"
+title="Seaborn" width="55" height="70"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg"
+title="Plotly" width="85" height="80"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/6043126?s=400&v=4"
+title="SQLalchemy" width="75" height="70"/>&nbsp;
 
 
 **Технологии и инструменты:**
@@ -49,8 +71,6 @@ title="PostgreSQL" width="50" height="70"/>&nbsp;
 title="PyCharm" width="50" height="75"/>&nbsp;
 <img src="https://yt3.googleusercontent.com/wU2SUYQly_QiHKNrd1tH8-9aA6ggSQmZRSZte6mfFZmOmpNBKVPydjWFeUBcoKx9oTomhHmHZA=s900-c-k-c0x00ffffff-no-rj"
 title="Excel" width="55" height="70"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-title="Python" width="50" height="75"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"
 title="VScode" width="40" height="75"/>&nbsp;
 <img src="https://quickbi.io/wp-content/uploads/2021/12/PowerBI-logo-376x376-1.png"
@@ -60,21 +80,6 @@ title="Tableau" width="115" height="75"/>&nbsp;
 <img src="https://optim.tildacdn.com/tild3833-3334-4330-a666-653737323433/-/resize/332x/-/format/webp/Frame_152.png"
 title="DataLens" width="130" height="70"/>&nbsp;
 
-
-**Библиотеки:**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
-title="Pandas" width="50" height="80"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
-title="NumPy" width="80" height="80"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"
-title="SQLalchemy" width="100" height="80"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
-title="Scikitlearn" width="50" height="80"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg"
-title="Plotly" width="70" height="80"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"
-title="Matplotlib" width="80" height="75"/>&nbsp;
 
 
 **Пройденные курсы:**
