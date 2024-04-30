@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 
   </a>
-  <a href="zvuk_ykt@mail.ru">
+  <a href=mailto:izvuk_ykt@mail.ru>
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
