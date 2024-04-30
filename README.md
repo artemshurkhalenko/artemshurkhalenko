@@ -30,42 +30,61 @@
 
 
 
-**Технологии:**
+
+
+
+
+
+**Технологии и инструменты:**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg"
 title="Conda" width="80" height="80"/>&nbsp;
+<img src="https://logodix.com/logo/1741467.jpg"
+title="Jupyter Notebook" width="70" height="70"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
-title="DBeaver" width="45" height="80"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"
-title="Matplotlib" width="80" height="75"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
-title="NumPy" width="80" height="80"/>&nbsp;
+title="DBeaver" width="50" height="70"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+title="PostgreSQL" width="50" height="70"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
+title="PyCharm" width="50" height="75"/>&nbsp;
+<img src="https://yt3.googleusercontent.com/wU2SUYQly_QiHKNrd1tH8-9aA6ggSQmZRSZte6mfFZmOmpNBKVPydjWFeUBcoKx9oTomhHmHZA=s900-c-k-c0x00ffffff-no-rj"
+title="Excel" width="55" height="70"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+title="Python" width="50" height="75"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"
+title="VScode" width="40" height="75"/>&nbsp;
+<img src="https://quickbi.io/wp-content/uploads/2021/12/PowerBI-logo-376x376-1.png"
+title="PowerBI" width="65" height="65"/>&nbsp;
+<img src="https://www.swinburneonline.edu.au/app/uploads/2022/08/Tableau-Logo-scaled.webp"
+title="Tableau" width="115" height="75"/>&nbsp;
+<img src="https://optim.tildacdn.com/tild3833-3334-4330-a666-653737323433/-/resize/332x/-/format/webp/Frame_152.png"
+title="DataLens" width="130" height="70"/>&nbsp;
+
+
+**Библиотеки:**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
 title="Pandas" width="50" height="80"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg"
-title="Plotly" width="70" height="80"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-title="PostgreSQL" width="50" height="80"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
-title="PyCharm" width="50" height="80"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-title="Python" width="50" height="80"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
-title="Scikitlearn" width="50" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
+title="NumPy" width="80" height="80"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"
 title="SQLalchemy" width="100" height="80"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"
-title="VScode" width="40" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+title="Scikitlearn" width="50" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg"
+title="Plotly" width="70" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"
+title="Matplotlib" width="80" height="75"/>&nbsp;
 
 
 **Пройденные курсы:**
 
-| Организация | Название курса | Дата окончания | Ссылка на сертификат |
+| Организация | Название курса | Дата окончания | Сертификаты |
 |:-----------:|:--------------:|:--------------:|:--------------------:|
 | Яндекс Практикум | Аналитика данных | 05.2023 | ссылка будет |
-|ДФУ| Интерактивный SQL| 06.2023 | https://stepik.org/cert/2087620|
-|Академия Excel|Расширенные возможности Excel|07.2023|https://stepik.org/cert/2120878|
-|OPMOD|Power Query, Power Pivot|07.2023|https://stepik.org/cert/2127418|
-|OPMOD|Визуализация в Power BI|09.2023|https://stepik.org/cert/2162424|
-|Глеб Михайлов|SQL для анализа данных|07.2023|https://stepik.org/cert/2133979|
-|Shultais Education|Программирование на Python|08.2023|https://stepik.org/cert/2148858|
+|ДФУ| Интерактивный SQL| 06.2023 | [Stepik](https://stepik.org/cert/2087620)|
+|Академия Excel|Расширенные возможности Excel|07.2023|[Stepik](https://stepik.org/cert/2120878)|
+|OPMOD|Power Query, Power Pivot|07.2023|[Stepik](https://stepik.org/cert/2127418)|
+|OPMOD|Визуализация в Power BI|09.2023|[Stepik](https://stepik.org/cert/2162424)|
+|Глеб Михайлов|SQL для анализа данных|07.2023|[Stepik](https://stepik.org/cert/2133979)|
+|Shultais Education|Программирование на Python|08.2023|[Stepik](https://stepik.org/cert/2148858)|
