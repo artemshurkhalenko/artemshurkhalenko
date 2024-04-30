@@ -5,11 +5,11 @@
 
 
 ### О себе
-- 👨‍🔬 Работаю аналитиком данных в крупном **Ecommerce** 
+- 👨‍🔬 Работаю аналитиком данных в крупном **E-commerce** 
 - 🎓 Студент IT-направления в Швейцарском институте открытого образования [SILL](https://siil.ch/ "Swiss International Institute Lausanne")
 - 🎻 Отвечаю за данные в стартапе для классических музыкантов [TUTTI](https://tuttimusic.tilda.ws/ "Tutti")
-- 👓 Люблю читать литературу по `DS`, `CS`
-- 🌍 Уровень английского языка b2
+- 👓 Люблю читать литературу по `DA`, `DS`, `CS`
+- 🌍 Английский язык на уровне b2
 - 🥁 Бью в барабаны > 13 лет
 
 
@@ -19,7 +19,7 @@
     <a href="https://vk.com/gravedigger88">
     <img src="https://img.shields.io/badge/Vk.com-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vkontakte"/>
   </a>
-  <a href="@grvdgr">
+  <a href="https://t.me/grvdgr">
   <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 
   </a>
@@ -73,20 +73,21 @@ title="PyCharm" width="50" height="75"/>&nbsp;
 title="Excel" width="55" height="70"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"
 title="VScode" width="40" height="75"/>&nbsp;
+<img src="https://util.1c-bitrix.ru/upload/bx24vendor/d44/pa04jode3exyn6dn94y0nwsfergkcyu1/650x650.png"
+title="Yandex Metrica" width="70" height="70"/>&nbsp;
 <img src="https://quickbi.io/wp-content/uploads/2021/12/PowerBI-logo-376x376-1.png"
-title="PowerBI" width="65" height="65"/>&nbsp;
+title="PowerBI" width="62" height="65"/>&nbsp;
 <img src="https://www.swinburneonline.edu.au/app/uploads/2022/08/Tableau-Logo-scaled.webp"
 title="Tableau" width="115" height="75"/>&nbsp;
 <img src="https://optim.tildacdn.com/tild3833-3334-4330-a666-653737323433/-/resize/332x/-/format/webp/Frame_152.png"
 title="DataLens" width="130" height="70"/>&nbsp;
 
 
-
 **Пройденные курсы:**
 
 | Организация | Название курса | Дата окончания | Сертификаты |
 |:-----------:|:--------------:|:--------------:|:--------------------:|
-| Яндекс Практикум | Аналитика данных | 05.2023 | ссылка будет |
+| Яндекс Практикум | Аналитика данных | 05.2023 | [Yandex](https://cloud.mail.ru/public/T4u2/BMVvTTKQJ) |
 |ДФУ| Интерактивный SQL| 06.2023 | [Stepik](https://stepik.org/cert/2087620)|
 |Академия Excel|Расширенные возможности Excel|07.2023|[Stepik](https://stepik.org/cert/2120878)|
 |OPMOD|Power Query, Power Pivot|07.2023|[Stepik](https://stepik.org/cert/2127418)|
