@@ -20,11 +20,11 @@
     <img src="https://img.shields.io/badge/Vk.com-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vkontakte"/>
   </a>
   <a href="@grvdgr">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 
   </a>
   <a href="zvuk_ykt@mail.ru">
-      <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
@@ -56,3 +56,16 @@ title="Scikitlearn" width="50" height="80"/>&nbsp;
 title="SQLalchemy" width="100" height="80"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"
 title="VScode" width="40" height="80"/>&nbsp;
+
+
+**Пройденные курсы:**
+
+| Организация | Название курса | Дата окончания | Ссылка на сертификат |
+|:-----------:|:--------------:|:--------------:|:--------------------:|
+| Яндекс Практикум | Аналитика данных | 05.2023 | ссылка будет |
+|ДФУ| Интерактивный SQL| 06.2023 | https://stepik.org/cert/2087620|
+|Академия Excel|Расширенные возможности Excel|07.2023|https://stepik.org/cert/2120878|
+|OPMOD|Power Query, Power Pivot|07.2023|https://stepik.org/cert/2127418|
+|OPMOD|Визуализация в Power BI|09.2023|https://stepik.org/cert/2162424|
+|Глеб Михайлов|SQL для анализа данных|07.2023|https://stepik.org/cert/2133979|
+|Shultais Education|Программирование на Python|08.2023|https://stepik.org/cert/2148858|
