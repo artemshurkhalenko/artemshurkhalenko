@@ -16,6 +16,7 @@
 
 
 <div id="socials" align="center">
+    <h4>Свяжитесь со мной</h4>
     <a href="https://vk.com/gravedigger88">
     <img src="https://img.shields.io/badge/Vk.com-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vkontakte"/>
   </a>
